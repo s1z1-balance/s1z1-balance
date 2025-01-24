@@ -1,10 +1,5 @@
-<h1 align="center">Привет 👋, я s1z1_</h1>
-<h3 align="center">Junior Developer | Люблю изучать и создавать</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=s1z1-balance&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="s1z1-balance" />
-</p>
-
+<h1 align="center">Привет, я s1z1_</h1>
+<h3 align="center">junior Developer | love brff</h3>
 ---
 
 ### 🚀 О себе:
