@@ -45,9 +45,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1z1-balance&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1z1-balance&layout=compact&theme=radical" alt="Топ языков" />
 </p>
