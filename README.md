@@ -1,6 +1,5 @@
 <h1 align="center">Привет, я s1z1_</h1>
 <h3 align="center">junior Developer | love brff</h3>
----
 
 ### 🚀 О себе:
 
