@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [https://github.com/s1z1-balance/VirtualOs](VirtualOS)<br>🤝 I’m looking for help with Virtual OS<br>🌱 I’m currently learning Python / HTML<br>⚡ Fun fact im 2 year's old
+🔭 I’m s1z1, Senior Python Dev and Junior Java Dev<br> I’m currently learning Java \ JavaScript<br>⚡ Fun fact im 2 year's old
 
 
 ## 🌐 Socials:
