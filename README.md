@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m s1z1, Senior Python Dev and Junior Java Dev <br> I’m currently learning Java \ JavaScript<br>⚡ Fun fact im 2 year's old
+🔭 I’m s1z1, Senior Python Dev and Junior Java Dev <br>⚡ I’m currently learning Java \ JavaScript<br>⚡ Fun fact im 2 year's old
 
 
 ## 🌐 Socials:
