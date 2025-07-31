@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m s1z1, Senior Python Dev and Junior Java Dev <br>⚡ I’m currently learning Java \ JavaScript <br>🌱 Fun fact im 3 year's old
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1273543576155979834) 
 
@@ -19,5 +15,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=s1z1-balance&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
