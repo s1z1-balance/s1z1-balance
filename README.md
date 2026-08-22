@@ -1,13 +1,28 @@
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1273543576155979834) 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/s1z1-balance/s1z1-balance/main/.github/workflows/discord-banner-mvdusr.png" alt="mvdusr" width="100%">
+</p>
 
-# 💻 LANGUAGES:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### about
+i'm mvdusr, i'm building minecraft cheats, network tools, and small scripts for PowerShell or bash. into high-level stuff and automating boring shit.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=s1z1-balance&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=s1z1-balance&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s1z1-balance&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[discord](https://discord.com/users/1273543576155979834) • [telegram](https://t.me/mvdusr)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=s1z1-balance&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
+---
+
+### core skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,c,git,sqlite,docker&theme=dark" alt="core skills" />
+</p>
+
+- **languages**: Java • Python • C(learning) • SQL
+- **databases**: SQLite 
+- **tools & hardware**: Git • Docker (learning) • Mixins • Bash • Linux • swindows 11
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=s1z1-balance&style=flat-square&color=216e39)
+
+---
+
+![snake](https://raw.githubusercontent.com/s1z1-balance/s1z1-balance/output/snake-dark.svg)
