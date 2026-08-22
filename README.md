@@ -15,8 +15,8 @@ i'm mvdusr, i'm building minecraft cheats, network tools, and small scripts for 
   <img src="https://skillicons.dev/icons?i=java,py,c,git,sqlite,docker&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: Java • Python • C(learning) • SQL
-- **databases**: SQLite 
+- **languages**: Java • Python • C(learning) • SQL(learning)
+- **databases**: SQLite(learning)
 - **tools & hardware**: Git • Docker (learning) • Mixins • Bash • Linux • swindows 11
 
 ---
