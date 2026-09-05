@@ -12,10 +12,10 @@ i'm mvdusr, i'm building minecraft cheats, network tools, and small scripts for 
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,c,git,sqlite,docker&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=java,py,go,git,sqlite,docker&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: Java • Python • C(learning) • SQL(learning)
+- **languages**: Java • Python • GoLang(learning) • SQL(learning)
 - **databases**: SQLite(learning)
 - **tools & hardware**: Git • Docker (learning) • Mixins • Bash • Linux • swindows 11
 
